@@ -15,8 +15,9 @@
 -   Git, Postman, PHPUnit, Pest
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="php"  />
-  <img width="12" />
+   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="php"  /> -->
+  <img src="https://www.php.net/images/logos/elephpant-running-78x48.gif" height="40" alt="elephpant running logo" title="php" />
+  <!-- <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" title="laravel" />
   <img width="12" />
   <img src="https://github.com/github/explore/blob/main/topics/livewire/livewire.png?raw=true" height="40" alt="livewire logo" title="livewire" />
